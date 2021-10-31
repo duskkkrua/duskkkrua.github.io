@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://duskkkrua.github.io</id>
     <title>Duskkk</title>
-    <link href="http://example.com" />
+    <link href="http://duskkkrua.github.io" />
     <updated>2021-10-28T04:02:55.536Z</updated>
     <entry>
-        <id>http://example.com/2021/10/28/computer-science/the-begin/</id>
+        <id>http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/</id>
         <title>the-begin</title>
-        <link rel="alternate" href="http://example.com/2021/10/28/computer-science/the-begin/"/>
+        <link rel="alternate" href="http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/"/>
         <content type="html">&lt;h2 id=&#34;first_try&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#first_try&#34;&gt;#&lt;/a&gt; first_try&lt;/h2&gt;
 &lt;p&gt;Hello world!&lt;/p&gt;
 </content>
         <updated>2021-10-28T04:02:55.536Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/10/28/math/lease_linear/</id>
+        <id>http://duskkkrua.github.io/2021/10/28/math/lease_linear/</id>
         <title>线性最小二乘法</title>
-        <link rel="alternate" href="http://example.com/2021/10/28/math/lease_linear/"/>
+        <link rel="alternate" href="http://duskkkrua.github.io/2021/10/28/math/lease_linear/"/>
         <content type="html">&lt;h1 id=&#34;什么是线性最小二乘法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是线性最小二乘法&#34;&gt;#&lt;/a&gt; 什么是线性最小二乘法&lt;/h1&gt;
 &lt;h2 id=&#34;前言废话&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言废话&#34;&gt;#&lt;/a&gt; 前言（废话）&lt;/h2&gt;
 &lt;p&gt;线性回归因为比较简单，可以直接推导出解析解，而且许多非线性的问题也可以转化为线性问题来解决，所以得到了广泛的应用。&lt;/p&gt;

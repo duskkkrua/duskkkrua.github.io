@@ -2,24 +2,24 @@
 <rss version="2.0">
     <channel>
         <title>Duskkk</title>
-        <link>http://example.com</link>
+        <link>http://duskkkrua.github.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Thu, 28 Oct 2021 12:02:55 +0800</pubDate>
         <lastBuildDate>Thu, 28 Oct 2021 12:02:55 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2021/10/28/computer-science/the-begin/</guid>
+            <guid isPermalink="true">http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/</guid>
             <title>the-begin</title>
-            <link>http://example.com/2021/10/28/computer-science/the-begin/</link>
+            <link>http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/</link>
             <pubDate>Thu, 28 Oct 2021 12:02:55 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;first_try&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#first_try&#34;&gt;#&lt;/a&gt; first_try&lt;/h2&gt;
 &lt;p&gt;Hello world!&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2021/10/28/math/lease_linear/</guid>
+            <guid isPermalink="true">http://duskkkrua.github.io/2021/10/28/math/lease_linear/</guid>
             <title>线性最小二乘法</title>
-            <link>http://example.com/2021/10/28/math/lease_linear/</link>
+            <link>http://duskkkrua.github.io/2021/10/28/math/lease_linear/</link>
             <pubDate>Thu, 28 Oct 2021 10:27:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;什么是线性最小二乘法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是线性最小二乘法&#34;&gt;#&lt;/a&gt; 什么是线性最小二乘法&lt;/h1&gt;
 &lt;h2 id=&#34;前言废话&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言废话&#34;&gt;#&lt;/a&gt; 前言（废话）&lt;/h2&gt;
