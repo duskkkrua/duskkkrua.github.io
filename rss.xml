@@ -87,7 +87,7 @@
 &lt;p&gt;求其极小值，即求最小值，即令 式 (5) 与式（6）皆为 0。&lt;br&gt;
 如此我们便能得到一个二元一次方程组。&lt;/p&gt;
 \begin{cases}
- \tag{7} (\hat{y}_{i} - a\hat{x} - b)\hat{x} = 0
+ \tag{7} (\hat{y}_{i} - a\hat{x} - b)\hat{x} = 0 \\
  \tag{8} (\hat{y}_{i} - a\hat{x} - b) = 0
 \end{cases}
 
