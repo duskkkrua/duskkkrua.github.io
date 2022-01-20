@@ -3,7 +3,18 @@
     <id>http://duskkkrua.github.io</id>
     <title>Duskkk</title>
     <link href="http://duskkkrua.github.io" />
-    <updated>2021-10-28T04:02:55.536Z</updated>
+    <updated>2021-11-15T12:15:17.445Z</updated>
+    <entry>
+        <id>http://duskkkrua.github.io/2021/11/15/learning-source/deep-learning/</id>
+        <title>学习资源</title>
+        <link rel="alternate" href="http://duskkkrua.github.io/2021/11/15/learning-source/deep-learning/"/>
+        <content type="html">&lt;p&gt;写这个文档是用于收集一些有用的学习资源的链接，有些比较难找，待到用时再找往往很浪费时间，倒不如遇到的时候记录下来，然后以后要用直接过来 crtl+f，其不美哉？&lt;/p&gt;
+&lt;h1 id=&#34;工具链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#工具链接&#34;&gt;#&lt;/a&gt; 工具链接&lt;/h1&gt;
+&lt;p&gt;cuda 历史版本&lt;br&gt;
+ “&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIubnZpZGlhLmNvbS9jdWRhLXRvb2xraXQtYXJjaGl2ZQ==&#34;&gt;https://developer.nvidia.com/cuda-toolkit-archive&lt;/span&gt;”&lt;/p&gt;
+</content>
+        <updated>2021-11-15T12:15:17.445Z</updated>
+    </entry>
     <entry>
         <id>http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/</id>
         <title>the-begin</title>

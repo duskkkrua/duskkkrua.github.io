@@ -5,6 +5,14 @@
     "home_page_url": "http://duskkkrua.github.io",
     "items": [
         {
+            "id": "http://duskkkrua.github.io/2021/11/15/learning-source/deep-learning/",
+            "url": "http://duskkkrua.github.io/2021/11/15/learning-source/deep-learning/",
+            "title": "学习资源",
+            "date_published": "2021-11-15T12:15:17.445Z",
+            "content_html": "<p>写这个文档是用于收集一些有用的学习资源的链接，有些比较难找，待到用时再找往往很浪费时间，倒不如遇到的时候记录下来，然后以后要用直接过来 crtl+f，其不美哉？</p>\n<h1 id=\"工具链接\"><a class=\"markdownIt-Anchor\" href=\"#工具链接\">#</a> 工具链接</h1>\n<p>cuda 历史版本<br>\n “<span class=\"exturl\" data-url=\"aHR0cHM6Ly9kZXZlbG9wZXIubnZpZGlhLmNvbS9jdWRhLXRvb2xraXQtYXJjaGl2ZQ==\">https://developer.nvidia.com/cuda-toolkit-archive</span>”</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/",
             "url": "http://duskkkrua.github.io/2021/10/28/computer-science/the-begin/",
             "title": "the-begin",
